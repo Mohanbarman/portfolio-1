@@ -182,8 +182,8 @@ nav .breif-me-btn:hover {
     background-color: #15171f;
     -webkit-clip-path: circle(30px at 120% -10%);
             clip-path: circle(30px at 120% -10%);
-    -webkit-transition: all 2s cubic-bezier(0.68, -0.55, 0.27, 1.55);
-    transition: all 2s cubic-bezier(0.68, -0.55, 0.27, 1.55);
+    -webkit-transition: all 2s ease-in-out;
+    transition: all 2s ease-in-out;
   }
   nav .menu li a {
     font-size: 1.5rem;
