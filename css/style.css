@@ -135,6 +135,18 @@ nav .menu li .active::after {
   opacity: 1;
 }
 
+nav .breif-me-btn {
+  border: 0;
+  padding: 0.5em 1.8em;
+}
+
+nav .breif-me-btn a {
+  font-size: 1.1rem;
+  color: black;
+  font-weight: 500;
+  text-decoration: none;
+}
+
 .profile {
   padding: 50px;
 }
